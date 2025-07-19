@@ -1,0 +1,42 @@
+.bg-green{
+    background:green;
+}
+.margin-15{
+    margin:15px;
+}
+.height-600{
+    height:600px;
+}
+.border-dotted{
+    border:5px dotted black;
+}
+.display-inline{
+    display:inline;
+}
+.display-flex{
+    display:flex;
+}
+.flex-dir{
+    flex-direction:column;
+}
+.align-self{
+    align-self:center;
+}
+.border-solid{
+    border:18px solid black;
+}
+.padding-top{
+    padding-top:8px;
+}
+.padding-bottom{
+    padding-bottom:8px;
+}
+.padding-left{
+    padding-left:20px;
+}
+.padding-right{
+    padding-right:20px;
+}
+.font-size{
+    font-size: 40px;
+}
