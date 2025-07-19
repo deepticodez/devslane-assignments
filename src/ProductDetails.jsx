@@ -16,7 +16,7 @@ function ProductDetails({photo ,description,para,price}){
             {para}
      
           </p>
-          <input class="border pl-3 pr-4 py-2 font-serif border-gray-300 mr-3" type="number" min="0" max="100" step="1" />
+          <input class="border pl-3 pr-4 py-2 font-serif border-gray-300 mr-3" defaultValue={1} type="number" min="0" max="100" step="1" />
           <button class="bg-[#fc470f] py-2.5 px-15 text-1xl text-white font-bold rounded-sm">ADD TO CART</button>
         </div>
       </div>
